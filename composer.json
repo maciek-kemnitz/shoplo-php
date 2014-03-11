@@ -1,5 +1,16 @@
 {
-    "name": "shoplo/client",
+    
+    "name": "maciek-kemnitz/shoplo-php",
+    "type": "library",
+    "description": "PHP client for shoplo api",
+    "keywords": [],
+    "homepage": "http://www.shoplo.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Grzegorz Lech"
+        }
+    ],
     "require": {
         "guzzle/guzzle": "v2.7.2"
     },
