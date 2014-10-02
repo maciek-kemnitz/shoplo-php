@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "guzzle/guzzle": "v2.7.2"
+        "guzzle/guzzle": "~3.0"
     },
     "autoload": {
         "psr-0": {
